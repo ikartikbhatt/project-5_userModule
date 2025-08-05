@@ -1,0 +1,20 @@
+{
+  "name": "project-5_usermodule",
+  "version": "1.0.0",
+  "description": "this project will cover middleware concept ",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon server/app.js",
+    "start": "node server/app.js"
+  },
+  "author": "kartikey bhatt",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "uuid": "^11.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
